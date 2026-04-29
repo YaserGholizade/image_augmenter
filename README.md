@@ -57,6 +57,13 @@ Run the script by defining your input path, target dimensions, and the number of
 python main.py --data ./path/to/dataset --out ./path/to/output --vars 100 --dims 32 64
 
 ```
+## 📊 Dataset Used
+
+The dataset used in the associated research paper is available at the following link:
+
+👉 https://drive.google.com/drive/folders/12m_l-SrigRYjSTMOStH4epzLw_P1HJP0?usp=drive_link
+
+Please download the dataset from the link above and place it in the appropriate directory before running experiments.
 
 ### Example:
 
