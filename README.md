@@ -68,19 +68,22 @@ Please download the dataset from the link above and place it in the appropriate 
 The repository includes the following datasets:
 ### 1. Resynth Dataset (Reorganized Version)
 **License:** CC BY-NC-ND 4.0
-Disclaimer: This distribution contains a reorganized version of the Resynth dataset. All visual content remains identical to the source; modifications are strictly limited to directory structure and file mapping for technical optimization. In compliance with the "NoDerivatives" clause, no alterations have been made to the images. Users must adhere to the original license terms, which prohibit commercial use and the distribution of modified content. The authors of this reorganization claim no ownership over the underlying data.
+
+**Disclaimer:** This distribution contains a reorganized version of the Resynth dataset. All visual content remains identical to the source; modifications are strictly limited to directory structure and file mapping for technical optimization. In compliance with the "NoDerivatives" clause, no alterations have been made to the images. Users must adhere to the original license terms, which prohibit commercial use and the distribution of modified content. The authors of this reorganization claim no ownership over the underlying data.
 
 - Bongini, P., Molinari, V., Costanzo, A., Tondi, B., & Barni, M. (2025). Training-free Source Attribution of AI-generated Images via Resynthesis. arXiv preprint arXiv:2510.24278.
 
 ### 2. VegSeed Dataset (Reorganized Version)
 **License:** CC BY 4.0
-Disclaimer: This dataset is a restructured version of the VegSeed dataset, originally hosted on Mendeley Data. While the image content is unchanged, the directory structure has been modified for improved workflow compatibility. This version is distributed under the Creative Commons Attribution 4.0 International license, allowing for sharing and adaptation provided appropriate credit is given to the original creators.
+
+**Disclaimer:** This dataset is a restructured version of the VegSeed dataset, originally hosted on Mendeley Data. While the image content is unchanged, the directory structure has been modified for improved workflow compatibility. This version is distributed under the Creative Commons Attribution 4.0 International license, allowing for sharing and adaptation provided appropriate credit is given to the original creators.
 
 - Ferdaus, Md Hasanul; Ohona, Syeda Raisha Abedin; Prito, Rizvee Hassan; Ahmed, Masud (2025), “VegSeedsBD: A Comprehensive Image Dataset of Vegetable Seeds.”, Mendeley Data, V1, doi: 10.17632/dtpzbwwpm7.1
 
 ### 3. Food-30 Dataset (Revised Version)
 **License:** CC BY-NC-SA
-Disclaimer: This is a revised distribution of the Food-101 dataset. This version has been modified by reducing the scope to 30 classes and filtering images based on specific resolution and aspect ratio criteria. Under the "ShareAlike" clause of the CC BY-NC-SA license, this derivative work is distributed under the same terms as the original. Any further use must remain non-commercial, and proper attribution must be maintained. The authors of this revision claim no ownership over the original image content.
+
+**Disclaimer:** This is a revised distribution of the Food-101 dataset. This version has been modified by reducing the scope to 30 classes and filtering images based on specific resolution and aspect ratio criteria. Under the "ShareAlike" clause of the CC BY-NC-SA license, this derivative work is distributed under the same terms as the original. Any further use must remain non-commercial, and proper attribution must be maintained. The authors of this revision claim no ownership over the original image content.
 
 - Bossard, L., Guillaumin, M., & Van Gool, L. (2014, September). Food-101–mining discriminative components with random forests. In European conference on computer vision (pp. 446-461). Cham: Springer International Publishing.
 
