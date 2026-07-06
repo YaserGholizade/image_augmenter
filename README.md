@@ -1,6 +1,9 @@
 # Image Augmentor: Large-Scale Dataset Expansion
 
-A high-throughput image augmentation engine designed to generate an **arbitrary number of variations (100+)** for every source image. This tool is optimized for machine learning tasks where dataset diversity and model robustness are critical.
+A high-throughput image augmentation engine designed to generate an **arbitrary number of variations (100+)** for every source image. Originally developed for the paper **The Role of Input Dimensionality in the Emergence and Targeted Control of Adversarial Examples**, this framework is designed to support large-scale machine learning workflows by increasing dataset diversity.
+
+The corresponding paper is available on arXiv:
+https://arxiv.org/html/2606.26207v1
 
 
 ## Description
