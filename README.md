@@ -2,6 +2,7 @@
 
 A high-throughput image augmentation engine designed to generate an **arbitrary number of variations (100+)** for every source image. This tool is optimized for machine learning tasks where dataset diversity and model robustness are critical.
 
+
 ## Description
 
 Unlike standard augmentation libraries, this engine allows users to specify an exact number of variations to generate per image. It uses a multi-stage pipeline—combining spatial transformations, custom intensity mapping (HEQ), and frequency filters—to ensure that even when generating 100+ variations from a single source, the resulting data remains diverse and valuable for training.
@@ -59,7 +60,7 @@ python main.py --data ./path/to/dataset --out ./path/to/output --vars 100 --dims
 ```
 ## Dataset Used
 
-The dataset used in the associated research paper is available at the following link:
+The dataset used in the associated research paper (the paper is available at https://arxiv.org/html/2606.26207v1)  is available at the following link:
 
  https://drive.google.com/drive/folders/12m_l-SrigRYjSTMOStH4epzLw_P1HJP0?usp=drive_link
 
